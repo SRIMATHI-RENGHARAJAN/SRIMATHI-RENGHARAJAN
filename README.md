@@ -5,13 +5,13 @@ Aspiring Software Engineer | AI/ML Enthusiast | Full Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Srimathi_Rengharajan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srimathi-rengharajan)
 
----
 
+##
 ## 👋 About Me
 
-I am a passionate technologist focused on developing **intelligent systems that address real-world challenges**. My expertise spans **Artificial Intelligence, Machine Learning, Natural Language Processing, and Full Stack Web Development**. I bridge the gap between cutting-edge research and practical application, transforming innovative ideas into impactful, scalable solutions.
+I am a passionate technologist focused on developing intelligent systems that address real-world challenges. My expertise spans Artificial Intelligence, Machine Learning, Natural Language Processing, and Full Stack Web Development. I bridge the gap between cutting-edge research and practical application, transforming innovative ideas into impactful, scalable solutions.
 
----
+##
 
 ## 📚 Research Publications
 
@@ -35,7 +35,7 @@ Designed an abstractive NLP framework for Tamil language processing using multil
 **Book Chapter:** PSGR Publication  
 Presented an in-depth analysis of Tamil NLP challenges, covering extractive and abstractive summarization techniques with emphasis on language resource optimization.
 
----
+##
 
 ## 💻 Technical Expertise
 
@@ -56,44 +56,41 @@ FastAPI • Firebase • Hugging Face Model Hosting • Cloud Services
 **Tools & Technologies**  
 Git & GitHub • REST APIs • Model Deployment & API Integration
 
----
+##
 
 ## 🚀 Featured Projects
 
-**🚨 Automatic Accident Detection & Emergency Response System**  
+**Automatic Accident Detection & Emergency Response System**  
 Real-time accident detection using deep learning with automated emergency alert system and location-based response mechanism.
 
-**🧠 Mentimate – Mental Health Prediction & Personalized Care Platform**  
+**Mentimate – Mental Health Prediction & Personalized Care Platform**  
 ML-based platform for mental health risk assessment with personalized recommendations and analytics dashboard.
 
-**👁️ Cataract Detection System**  
+**Cataract Detection System**  
 Deep learning-powered medical imaging system for early cataract detection using CNN architectures.
 
-**📝 Tamil Text Summarization System (SPELL Framework)**  
+**Tamil Text Summarization System (SPELL Framework)**  
 Multilingual transformer-based abstractive summarization system for Tamil language processing.
 
-**🚨 Crime Analytics & Patrol Scheduling System**  
+**Crime Analytics & Patrol Scheduling System**  
 Data-driven system for crime pattern analysis and optimized patrol route scheduling using predictive analytics.
 
-**📦 Carton Box Detection using YOLO & Faster-RCNN**  
+**Carton Box Detection using YOLO & Faster-RCNN**  
 Object detection system implementing YOLO and Faster-RCNN models for automated carton box identification.
 
-**🌐 Mental Health Web Application**  
-Full-stack web platform providing mental health resources and support tools.
-
-**🛒 E-commerce Mobile Application**  
+**E-commerce Mobile Application**  
 Mobile application developed using Kotlin and Firebase with real-time database integration.
 
----
+##
 
 ## 🏆 Achievements & Recognition
 
-- 🥇 **Winner** – Infinix Hackathon
-- 🚀 **Finalist** – LagAIthon
-- 💡 **Winner** – Multiple Idea Pitch Presentations (ATC Club, Shark Tank-style Events)
-- 📄 **5 Research Publications** – Springer, IEEE, and Book Chapter
+-  **Winner** – Infinix Hackathon
+-  **Finalist** – LagAIthon
+-  **Winner** – Multiple Idea Pitch Presentations (ATC Club, Shark Tank-style Events)
+-  **5 Research Publications** – Springer, IEEE, and Book Chapter
 
----
+##
 
 ## 🎯 Research Interests
 
@@ -104,12 +101,12 @@ Mobile application developed using Kotlin and Firebase with real-time database i
 - Intelligent Transportation Systems
 - Mental Health Technologies
 
----
+##
 
 
 
 <div align="center">
 
-**🎓 Driven by Curiosity • 💡 Focused on Innovation • 🚀 Committed to Impact**
+**Driven by Curiosity • Focused on Innovation •  Committed to Impact**
 
 </div>
