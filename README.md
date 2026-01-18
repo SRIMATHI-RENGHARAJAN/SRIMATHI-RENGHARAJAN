@@ -1,8 +1,9 @@
-# SRIMATHI R
+# Srimathi R
 
 **Final Year B.Tech – Information Technology**  
 Aspiring Software Engineer | AI/ML Enthusiast | Full Stack Developer
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Srimathi_Rengharajan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srimathi-rengharajan)
 
 ---
 
@@ -43,15 +44,14 @@ Python • Java • C • SQL • JavaScript
 
 **AI / ML / NLP**  
 Machine Learning • Deep Learning • CNN • Transformers • Natural Language Processing • Computer Vision  
-TensorFlow • Keras • OpenCV • Hugging Face  
-
+TensorFlow • Keras • OpenCV • Hugging Face
 
 **Web Development**  
 React.js • Angular.js • HTML5 • CSS3 • JavaScript • Node.js • Express.js  
 RESTful API Development • Full Stack Web Applications
 
 **Backend & Deployment**  
-FastAPI • Firebase • Hugging Face Model Hosting  • Cloud Services
+FastAPI • Firebase • Hugging Face Model Hosting • Cloud Services
 
 **Tools & Technologies**  
 Git & GitHub • REST APIs • Model Deployment & API Integration
@@ -105,10 +105,6 @@ Mobile application developed using Kotlin and Firebase with real-time database i
 - Mental Health Technologies
 
 ---
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Srimathi_Rengharajan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srimathi-rengharajan)
 
 
 
