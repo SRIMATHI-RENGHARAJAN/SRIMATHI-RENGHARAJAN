@@ -1,4 +1,4 @@
-# Srimathi R
+## Srimathi R
 
 **Final Year B.Tech – Information Technology**  
 Aspiring Software Engineer | AI/ML Enthusiast | Full Stack Developer
@@ -15,23 +15,23 @@ I am a passionate technologist focused on developing intelligent systems that ad
 
 ## 📚 Research Publications
 
-**Automatic Accident Detection and Response System**  
+- **Automatic Accident Detection and Response System**  
 **Published in:** Springer Conference Proceedings – UET PAT  
 Developed a real-time accident detection system leveraging deep learning algorithms, integrated with automated emergency alerts and location-based response mechanisms.
 
-**Mentimate: Enhancing Mental Health with Predictive Analytics & Personalized Care**  
+- **Mentimate: Enhancing Mental Health with Predictive Analytics & Personalized Care**  
 **Published in:** IEEE – ACCAI-2025, St. Joseph's College  
 Created an ML-powered platform for mental health risk prediction, offering personalized recommendations and comprehensive analytics for user-centric mental health support.
 
-**Comparative Analysis of Deep Learning Models for Cataract Detection**  
+- **Comparative Analysis of Deep Learning Models for Cataract Detection**  
 **Published in:** IEEE – iConSCEPT-2025, NIT Puducherry  
 Conducted a comparative study of CNN-based deep learning architectures for medical image classification, achieving improved accuracy in early cataract detection.
 
-**A Hybrid Framework for Tamil Text Summarization using Multilingual Transformers**  
+- **A Hybrid Framework for Tamil Text Summarization using Multilingual Transformers**  
 **Conference:** SPELLL-2025, IIIT Kottayam  
 Designed an abstractive NLP framework for Tamil language processing using multilingual transformer models, addressing challenges in low-resource language scenarios.
 
-**Enhancing Information Access: Summarization Techniques for Tamil Language**  
+- **Enhancing Information Access: Summarization Techniques for Tamil Language**  
 **Book Chapter:** PSGR Publication  
 Presented an in-depth analysis of Tamil NLP challenges, covering extractive and abstractive summarization techniques with emphasis on language resource optimization.
 
@@ -60,25 +60,25 @@ Git & GitHub • REST APIs • Model Deployment & API Integration
 
 ## 🚀 Featured Projects
 
-**Automatic Accident Detection & Emergency Response System**  
+- **Automatic Accident Detection & Emergency Response System**  
 Real-time accident detection using deep learning with automated emergency alert system and location-based response mechanism.
 
-**Mentimate – Mental Health Prediction & Personalized Care Platform**  
+- **Mentimate – Mental Health Prediction & Personalized Care Platform**  
 ML-based platform for mental health risk assessment with personalized recommendations and analytics dashboard.
 
-**Cataract Detection System**  
+- **Cataract Detection System**  
 Deep learning-powered medical imaging system for early cataract detection using CNN architectures.
 
-**Tamil Text Summarization System (SPELL Framework)**  
+- **Tamil Text Summarization System (SPELL Framework)**  
 Multilingual transformer-based abstractive summarization system for Tamil language processing.
 
-**Crime Analytics & Patrol Scheduling System**  
+- **Crime Analytics & Patrol Scheduling System**  
 Data-driven system for crime pattern analysis and optimized patrol route scheduling using predictive analytics.
 
-**Carton Box Detection using YOLO & Faster-RCNN**  
+- **Carton Box Detection using YOLO & Faster-RCNN**  
 Object detection system implementing YOLO and Faster-RCNN models for automated carton box identification.
 
-**E-commerce Mobile Application**  
+- **E-commerce Mobile Application**  
 Mobile application developed using Kotlin and Firebase with real-time database integration.
 
 ##
