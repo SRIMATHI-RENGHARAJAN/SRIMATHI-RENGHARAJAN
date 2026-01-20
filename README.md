@@ -7,13 +7,13 @@ Aspiring Software Engineer | AI/ML Enthusiast | Full Stack Developer
 
 
 ##
-## 👋 About Me
+## About Me
 
 I am a passionate technologist focused on developing intelligent systems that address real-world challenges. My expertise spans Artificial Intelligence, Machine Learning, Natural Language Processing, and Full Stack Web Development. I bridge the gap between cutting-edge research and practical application, transforming innovative ideas into impactful, scalable solutions.
 
 ##
 
-## 📚 Research Publications
+## Research Publications
 
 - **Automatic Accident Detection and Response System**  
 **Published in:** Springer Conference Proceedings – UET PAT  
@@ -37,7 +37,7 @@ Presented an in-depth analysis of Tamil NLP challenges, covering extractive and 
 
 ##
 
-## 💻 Technical Expertise
+## Technical Expertise
 
 **Programming Languages**  
 Python • Java • C • SQL • JavaScript
@@ -58,7 +58,7 @@ Git & GitHub • REST APIs • Model Deployment & API Integration
 
 ##
 
-## 🚀 Featured Projects
+## Featured Projects
 
 - **Automatic Accident Detection & Emergency Response System**  
 Real-time accident detection using deep learning with automated emergency alert system and location-based response mechanism.
@@ -83,7 +83,7 @@ Mobile application developed using Kotlin and Firebase with real-time database i
 
 ##
 
-## 🏆 Achievements & Recognition
+## Achievements & Recognition
 
 -  **Winner** – Infinix Hackathon
 -  **Finalist** – LagAIthon
@@ -92,7 +92,7 @@ Mobile application developed using Kotlin and Firebase with real-time database i
 
 ##
 
-## 🎯 Research Interests
+## Research Interests
 
 - Artificial Intelligence & Machine Learning
 - Natural Language Processing (Low-resource Languages)
